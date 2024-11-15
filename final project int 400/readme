@@ -1,0 +1,13 @@
+# EHR Encryption Project
+
+This project implements an encryption solution for Electronic Health Records (EHR) using a hybrid encryption model combining AES and ECC. 
+
+## File Structure
+
+- `data/` - Directory for data files
+- `encryption/` - Contains encryption-related modules
+- `db/` - Database connection and handling
+- `app/` - Application logic for input and storage
+- `tests/` - Directory for unit tests (to be implemented)
+- `requirements.txt` - List of dependencies
+- `main.py` - Entry point of the application
